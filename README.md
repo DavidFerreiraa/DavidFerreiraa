@@ -14,7 +14,7 @@ I'm a software development student, actually studying at [Rocketseat](https://ww
 - Instagram: [@davidferreiralimaa](https://instagram.com/davidferreiralimaa/)
 - linkedin: [David Ferreira Lima](https://br.linkedin.com/in/david-ferreira-lima-7b24b81b3)
 
-  <div style="width: 100%">
+  <div>
     <a href="https://github.com/DavidFerreiraa">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidFerreiraa&layout=compact&langs_count=7&theme=dark"/>
   </div>
