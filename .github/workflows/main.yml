@@ -23,7 +23,7 @@ jobs:
       - uses: Platane/snk@main
         id: snake-gif
         with:
-          github_user_name: Davidferreiraa
+          github_user_name: DavidFerreiraa
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
