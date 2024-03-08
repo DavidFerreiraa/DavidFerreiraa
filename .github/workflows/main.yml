@@ -18,6 +18,7 @@ jobs:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v4
+      - uses: Platane/snk/svg-only@v3
 
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@main
