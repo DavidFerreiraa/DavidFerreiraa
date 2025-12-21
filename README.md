@@ -8,7 +8,7 @@ I'm always ready to learn, especially if it's something about technology, and im
 
 "You want it? Pay the price for." - Maj. Cadar
  
-<h3>Find me in:</h3>
+<h3>Find me on:</h3>
 
 - X <a href="https://x.com/davidlima86309">Follow me on X</a>
 
